@@ -1,0 +1,48 @@
+body{
+    background-color:royalblue;
+    margin : 0px;
+    padding: 0px;
+}
+h2{
+    text-align: center;
+    font-family: courier New;
+    font-weight: bold;
+}
+button
+{
+    margin-left: 30%;
+    padding: 5px;
+    background-color :moccasin;
+    color:black;
+}
+button:hover
+{
+    background-color: black;
+    color:white;
+}
+input{
+    padding: 5px;
+    margin-left: 5%;
+}
+.card
+{
+    margin-left: 30%;
+    margin-top: 3%;
+    margin-right: 30%;
+    padding-top: 2%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 2%;
+    background-color: pink ;
+}
+footer
+{
+    background-color: black;
+    color:white;
+    height: 10%;
+    margin-top: 7%;
+}
+p{
+    text-align: center ;
+    padding-top: 30px;
+}
